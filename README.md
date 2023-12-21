@@ -5,9 +5,7 @@ A real-time chat application built with Socket.io for seamless communication.
 ## Features
 
 - Real-time messaging
-- User authentication
 - Multiple chat rooms
-- Emoji support
 
 ## Technologies Used
 
@@ -22,4 +20,3 @@ A real-time chat application built with Socket.io for seamless communication.
   - Node.js
   - Express.js
   - Socket.io for real-time communication
-  - MongoDB for user authentication and storing chat data
